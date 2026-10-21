@@ -40,16 +40,17 @@ I'm continuously learning, building projects, and strengthening my software engi
 
 ### 🧠 [Never-Forget](https://github.com/kinte1/never-forget)
 
-A personal memory and reminder application designed to help people save important information and retrieve it through natural-language search.
+An AI-powered personal memory and productivity assistant designed to help users save important information, retrieve memories through natural-language search, and manage reminders.
 
-**Key areas of development:**
+**Key features and areas of development:**
+
 - Python and FastAPI backend development.
-- Semantic search using text embeddings.
-- Memory storage and retrieval.
+- Semantic memory search using text embeddings.
+- Persistent memory storage and retrieval.
 - Reminder management and completed-reminder archiving.
+- Development toward an intelligent personal assistant for organizing everyday information and tasks.
 
-**Focus:** Applied AI, backend engineering, and practical problem-solving.
-
+**Focus:** Applied AI, semantic search, backend engineering, and practical problem-solving.
 ### 🤝 [AskDuka](https://github.com/nnamanimerit94/askduka)
 
 A collaborative project focused on helping businesses retrieve relevant information through AI-powered search.
